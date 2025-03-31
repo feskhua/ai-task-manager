@@ -25,7 +25,7 @@ This project is implemented on FastAPI using LangGraph, LangChain, and Gemini AP
 
 1. Navigate to the project directory:
 ```commandline
-cd AI-Task-Manager
+cd ai-task-manager
 ```
 2. Ensure Poetry is installed (install it with `pip install poetry` if needed).
 3. Create a virtual environment and install dependencies using Poetry:
